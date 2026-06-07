@@ -1,1 +1,1 @@
-Contains the dataset used for the project
+For the dataset, download it from kaggle from the following Link - https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data
